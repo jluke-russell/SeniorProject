@@ -1,0 +1,9 @@
+---
+title: "Intro to Education"
+author: "Luke Russell"
+date: "2023-10-10"
+categories: [news, code, analysis]
+image: "image.jpg"
+---
+
+In this post, I will introduce the project and give a summary for what I have been up to this week! 

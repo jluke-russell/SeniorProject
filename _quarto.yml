@@ -1,0 +1,20 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Senior Proj"
+  navbar:
+    right:
+      - about.qmd
+      - icon: github
+        href: https://github.com/jluke-russell
+      - icon: linkedin
+        href: https://www.linkedin.com/in/luke-r-b52969b0/
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+
+
+

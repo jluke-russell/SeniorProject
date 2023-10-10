@@ -1,0 +1,19 @@
+---
+title: "About"
+image: profile.jpg
+about:
+  template: jolla
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/luke-r-b52969b0/
+    - icon: github
+      text: Github
+      href: https://github.com/jluke-russell
+
+---
+
+Welcome to my Blog! 
+
+Here I will be discussing and posting regular updates on my project as a Data Science Consultant on an EdD dissertaion. 
+
