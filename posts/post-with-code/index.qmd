@@ -7,3 +7,7 @@ image: "image.jpg"
 ---
 
 In this post, I will introduce the project and give a summary for what I have been up to this week! 
+
+This past week I have been working on a data exploration file in Power BI because it was the most convient tool for the job. Power BI is microsoft's data visualization tool and is the tool of business nerds. I have created some an exploration table full of potential features for potential ML model which will be done in python. 
+
+The first thing I decided to explore was general demographic data for each student in a group and took the average GPA for each group and the percentage of students who passed their Praxis Test. 
