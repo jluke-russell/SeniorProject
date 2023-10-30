@@ -14,4 +14,4 @@ The first thing I decided to explore was general demographic data for each stude
 
 ![](tables.jpg)
 
-
+Upon running a number of ANOVA tests on the main data, I found that all my ANOVA ended up being significant, meaning that there is a statistical difference between the percent of praxis tests passed between the groups selected. 
