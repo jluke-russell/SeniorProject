@@ -12,4 +12,4 @@ This past week I have been working on a data exploration file in Power BI becaus
 
 The first thing I decided to explore was general demographic data for each student in a group, and took the average GPA for each group and the percentage of students who passed their Praxis Test. Upon doing this, I decided to run multiple seperate ANOVA tests to see whether there was a difference between the groups and their percent of praxis tests passed. 
 
-insert some ss here showing results..
+![](tables.jpg)
