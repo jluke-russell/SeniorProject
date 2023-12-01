@@ -11,7 +11,7 @@
     "href": "index.html",
     "title": "Senior Project Blog",
     "section": "",
-    "text": "Intro to Education\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nOct 30, 2023\n\n\nLuke Russell\n\n\n\n\n\n\n  \n\n\n\n\nHow NOT to Start a Senior Project\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nOct 9, 2023\n\n\nLuke Russell\n\n\n\n\n\n\nNo matching items"
+    "text": "Data Cleaning\n\n\n\n\n\n\n\nnews\n\n\ndata\n\n\n\n\n\n\n\n\n\n\n\nNov 30, 2023\n\n\nLuke Russell\n\n\n\n\n\n\n  \n\n\n\n\nIntro to Education\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nOct 30, 2023\n\n\nLuke Russell\n\n\n\n\n\n\n  \n\n\n\n\nHow NOT to Start a Senior Project\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nOct 9, 2023\n\n\nLuke Russell\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "about.html",
@@ -26,5 +26,12 @@
     "title": "Intro to Education",
     "section": "",
     "text": "In this post, I will introduce the project and give a summary for what I have been up to the past few weeks!\nThis past week I have been working on a data exploration file in Power BI because it was the most convient tool for the job. Power BI is microsoft’s data visualization tool and is the tool of business nerds. I have created some an exploration table full of potential features for potential ML model which will be done in python. I also conducted some simple statistical tests to see if there was a significant difference between the different demographic data and the percent of praxis test passed.\nThe first thing I decided to explore was general demographic data for each student in a group, and took the average GPA for each group and the percentage of students who passed their Praxis Test. Upon doing this, I decided to run multiple seperate ANOVA tests to see whether there was a difference between the groups and their percent of praxis tests passed.\n\nUpon running a number of ANOVA tests on the main data, I found that all my ANOVA ended up being significant, meaning that there is a statistical difference between the percent of praxis tests passed between the groups selected."
+  },
+  {
+    "objectID": "posts/third-post/index.html",
+    "href": "posts/third-post/index.html",
+    "title": "Data Cleaning",
+    "section": "",
+    "text": "A majority of this project has consisted of data wrangling (cleaning) and for this project, I did most of my data wrangling using the R programming language.\nData wrangling is an important skill for any data analyst/scientist becuase it allows them to mold the data into a usable format and standardize the data to make it functional. Another aspect of data wrangling is creating new datasets that contain data from multiple sources. Typcially you would want to do this step in the program that originally holds the data like a SQL database, but since I recieved the data secondhand, I also had to perform this step using R.\nI first started with the main dataset (called main) and created a new column called percPassed or the percentage of Praxis tests passed by students, and called this main2. Then I created the evaluation dataset, called result, by joining the Danielson and Disposition datasets by the ‘StudentID’ column.\n\nThe main cleaning consisted of changing categorical data into numerical values to calculate averages and perform analysis. This was done by using the mutate statement and case when statements to make the changes I needed as a sample is shown below:\n\nFollowing these steps, I then joined the result2 dataset to the main2 dataset to create my full_data. I then joined the certification data to create my final full_data dataset to be used for the intial analysis.\n\nThe final step of the main data wrangling was to create the average evaluation ratings for the Danielson and Disposition evaluations, and this is why I had to mutate the data into numeric values."
   }
 ]

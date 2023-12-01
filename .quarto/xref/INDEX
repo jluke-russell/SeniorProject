@@ -10,5 +10,8 @@
   },
   "posts/welcome/index.qmd": {
     "index.html": "4112ddfd"
+  },
+  "posts/third-post/index.qmd": {
+    "index.html": "5e3c4ea1"
   }
 }
