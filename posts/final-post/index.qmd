@@ -1,0 +1,12 @@
+---
+title: "Final Post(er)"
+author: "Luke Russell"
+date: "2023-12-11"
+categories: [news]
+image: ".jpg"
+---
+
+Well friends, we've officically reached the end of the line! 
+
+This is my last post reporting on the progress of my senior project to assist in the analysis of the BYU-Idaho Teacher Education program. I capped of this semester with a poster presentation at the BYU-Idaho Research and Creative Works (RCW) conference held back on December 7th, and wrapped up my role as consultant by turning my exploratory analysis file in Power BI into a functional dashboard that can be deployed as an app if desired. 
+
