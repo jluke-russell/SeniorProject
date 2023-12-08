@@ -11,3 +11,5 @@ Well friends, we've officically reached the end of the line!
 This is my last post reporting on the progress of my senior project to assist in the analysis of the BYU-Idaho Teacher Education program. I capped of this semester with a poster presentation at the BYU-Idaho Research and Creative Works (RCW) conference held back on December 7th, and wrapped up my role as consultant by turning my exploratory analysis file in Power BI into a functional dashboard that can be deployed as an app if desired. 
 
 The presentation at the RCW went really well, I had many friends and mentors visit my poster and some fellow data scientists as well. My favorite part of RCW was being able to share my work with others and help them understand my thought process and recieve feedback as to how to improve. What helped me the most on this project was my classes I took: Math 325, Math 326, BA 315, and DS 350. The skills taught in these classes were critical to my success in the final product. 
+
+![](poster.jpg)
